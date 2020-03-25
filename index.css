@@ -9,6 +9,7 @@ html, body {
   box-sizing: border-box;
   outline: none;
   overflow-x: hidden;
+  /* Add this line to your style.css */
   overscroll-behavior: none;
 }
 body, h1, h2, h3, h4, h5, h6, p, ol, ul {
